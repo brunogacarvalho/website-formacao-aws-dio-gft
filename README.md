@@ -3,6 +3,8 @@
 This project was developed during the GFT - AWS Cloud Fundamentals bootcamp provided by DIO.
 The objective of this portfolio is to document my studies and practical activities related to Cloud Computing and AWS fundamentals.
 
+🌐 **Live Demo:** http://primeirobuckets3-121470661194-us-east-1-an.s3-website-us-east-1.amazonaws.com/
+
 ## Preview
 
 ![Portfolio Preview](assets/img/preview.png)
