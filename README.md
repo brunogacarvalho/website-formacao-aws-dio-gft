@@ -32,5 +32,8 @@ The objective of this portfolio is to document my studies and practical activiti
 This project was created as part of my learning journey in Cloud Computing and to practice creating and publishing projects using GitHub.
 
 ## Author
-Bruno Carvalho  
+Bruno Carvalho
 LinkedIn: https://www.linkedin.com/in/brunogacarvalho/
+
+## Acknowledgements
+Thanks to professor [@alexsandrolechner](https://github.com/alexsandrolechner) for the guidance during the bootcamp.
