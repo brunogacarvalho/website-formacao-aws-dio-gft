@@ -35,5 +35,9 @@ This project was created as part of my learning journey in Cloud Computing and t
 Bruno Carvalho
 LinkedIn: https://www.linkedin.com/in/brunogacarvalho/
 
-## Acknowledgements
-Thanks to professor [@alexsandrolechner](https://github.com/alexsandrolechner) for the guidance during the bootcamp.
+## Créditos
+
+Projeto desenvolvido durante o bootcamp [GFT](https://www.gft.com/br/pt) - Fundamentos de Cloud com AWS, realizado pela [DIO](https://dio.me).
+
+Conteúdo e laboratório apresentados por [Alexsandro Lechner](https://linkedin.com/in/alexsandrolechner)  
+GitHub: [@alexsandrolechner](https://github.com/alexsandrolechner)
