@@ -1,38 +1,47 @@
-# AWS Fundamentals Portfolio
+# Portfólio AWS Fundamentals
 
-This project was developed during the GFT - AWS Cloud Fundamentals bootcamp provided by DIO.
-The objective of this portfolio is to document my studies and practical activities related to Cloud Computing and AWS fundamentals.
+Este projeto foi desenvolvido durante o bootcamp GFT - Fundamentos de Cloud com AWS, realizado pela DIO. O objetivo deste portfólio é documentar meus estudos e atividades práticas relacionadas à Computação em Nuvem e aos fundamentos da AWS.
 
-🌐 **Live Demo:** http://primeirobuckets3-121470661194-us-east-1-an.s3-website-us-east-1.amazonaws.com/
+🌐 Demonstração Online: http://primeirobuckets3-121470661194-us-east-1-an.s3-website-us-east-1.amazonaws.com/
 
 ## Preview
 
 ![Portfolio Preview](assets/img/preview.png)
 
-## Topics Studied
-- Introduction to AWS
-- AWS Global Infrastructure
-- Regions and Availability Zones
-- IAM Users, Groups and Permissions
-- MFA Configuration
-- Cost Monitoring and Billing Alerts
-- AWS Console, CLI and CloudShell
-- EC2 Fundamentals
+## Tópicos Estudados
+
+- Introdução à AWS
+- Infraestrutura Global da AWS
+- Regiões e Zonas de Disponibilidade
+- Usuários, Grupos e Permissões no IAM
+- Configuração de MFA
+- Monitoramento de Custos e Alertas de Cobrança
+- AWS Console, CLI e CloudShell
+- Fundamentos do EC2
 - Amazon EBS
 - Amazon S3
 
-## Technologies Used
+---
+
+## Tecnologias Utilizadas
+
 - HTML
 - CSS
 - Bootstrap
 - AWS
 - GitHub
 
-## Purpose of the Project
-This project was created as part of my learning journey in Cloud Computing and to practice creating and publishing projects using GitHub.
+---
 
-## Author
-Bruno Carvalho
+## Objetivo do Projeto
+
+Este projeto foi criado como parte da minha jornada de aprendizado em Cloud Computing e para praticar a criação e publicação de projetos utilizando GitHub.
+
+---
+
+## Autor
+
+Bruno Carvalho  
 LinkedIn: https://www.linkedin.com/in/brunogacarvalho/
 
 ## Créditos
