@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido durante o bootcamp GFT - Fundamentos de Cloud com AWS, realizado pela DIO. O objetivo deste portfólio é documentar meus estudos e atividades práticas relacionadas à Computação em Nuvem e aos fundamentos da AWS.
 
-🌐 Demonstração Online: [Clique aqui](http://primeirobuckets3-121470661194-us-east-1-an.s3-website-us-east-1.amazonaws.com/)
+🌐 Demonstração Online: [Clique aqui](https://primeirobuckets3-121470661194-us-east-1-an.s3.us-east-1.amazonaws.com/index.html)
 
 ## Preview
 
